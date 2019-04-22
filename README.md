@@ -1,1 +1,2 @@
-# Eigenvalue-woods-saxon
+# Eigenenergy
+Eigenenrgy calculation using exact method.
